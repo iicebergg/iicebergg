@@ -1,4 +1,4 @@
-i'm vivien and i do not know JavaScript
+i'm vivien
 
 ## Primary projects
 SOLace
