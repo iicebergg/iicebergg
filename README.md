@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FAE5B0,100:E8B86D&height=220&section=header&text=Vivien%20Berg&fontColor=5D4E37&fontSize=72&fontAlign=50&fontAlignY=42&desc=Junior%20%E2%80%A2%20Fairfax%20County%20Public%20Schools&descSize=18&descAlignY=68&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FAE5B0,100:E8B86D&height=220&section=header&text=Vivien%20Berg&fontColor=5D4E37&fontSize=72&fontAlign=50&fontAlignY=42&desc=Senior%20%E2%80%A2%20Fairfax%20County%20Public%20Schools&descSize=18&descAlignY=68&animation=fadeIn" alt="header banner" />
 </p>
 <br/>
 
