@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I'm Vivien, and I'm a high school junior in Virginia. This is where you can find the code for all of my open source projects! I am interested in web development and AI/ML, and I have several different projects and research underway. 
+Hello! I'm Vivien, and I'm a rising high school senior in Virginia. This is where you can find the code for all of my open source projects! I am interested in web development and AI/ML, and I have several different projects and research underway. 
 
 <p align="center">
   <a href="mailto:vivien@learnsolace.org">
