@@ -49,8 +49,9 @@ Hello! I'm Vivien, and I'm a high school senior in Virginia. This is where you c
 
 ❀ <strong><a href="https://learnsolace.org">SOLace</a></strong> <br/>
 &emsp; A free Virginia SOL test prep site for grades 3 through 12. Built in HTML, JavaScript, and CSS.<br/>
-&emsp; Website repository: <a href="https://github.com/iicebergg/SOLace">iicebergg/SOLace</a></br>
-&emsp; Research dataset: <a href="https://github.com/iicebergg/solace-dataset">iicebergg/solace-dataset</a></br>
+&emsp; Website repository: <a href="https://github.com/iicebergg/SOLace">iicebergg/SOLace</a><br/>
+&emsp; Research dataset: <a href="https://github.com/iicebergg/solace-dataset">iicebergg/solace-dataset</a><br/>
+&emsp; Research code: <a href="https://github.com/iicebergg/solace-research-code">iicebergg/solace-research-code</a><br/>
 
 <br/>
 
