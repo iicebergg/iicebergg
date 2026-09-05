@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I'm Vivien, and I'm a rising high school senior in Virginia. This is where you can find the code for all of my open source projects! I am interested in web development and AI/ML, and I have several different projects and research underway. 
+Hello! I'm Vivien, and I'm a high school senior in Virginia. This is where you can find the code for all of my open source projects! I am interested in web development and AI/ML, and I have several different projects and research underway. 
 
 <p align="center">
   <a href="mailto:vivien@learnsolace.org">
@@ -41,24 +41,18 @@ Hello! I'm Vivien, and I'm a rising high school senior in Virginia. This is wher
 
 <br/>
 
-<!-- ============================================================ -->
-<!--  SECTION DIVIDER                                             -->
-<!-- ============================================================ -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FAE5B0,100:E8B86D&height=2" alt="divider" />
 </p>
 
 ## Projects
 
-<strong>❀ <a href="https://learnsolace.org">SOLace</a></strong><br/>
-&emsp; A free Virginia SOL test prep site for grades 3 through 12. Built in HTML, JavaScript, and CSS.
+❀ <strong><a href="https://learnsolace.org">SOLace</a></strong> <br/>
+&emsp; A free Virginia SOL test prep site for grades 3 through 12. Built in HTML, JavaScript, and CSS.<br/>
+&emsp; Website repository: <a href="https://github.com/iicebergg/SOLace">iicebergg/SOLace</a></br>
+&emsp; Research dataset: <a href="https://github.com/iicebergg/solace-dataset">iicebergg/solace-dataset</a></br>
 
 <br/>
-
-<!-- ============================================================ -->
-<!--  FOOTER BANNER                                               -->
-<!-- ============================================================ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8B86D,100:FAE5B0&height=100&section=footer" alt="footer banner" />
