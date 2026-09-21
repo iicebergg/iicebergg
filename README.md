@@ -27,6 +27,7 @@ Hello! I'm Vivien, and I'm a high school senior in Virginia. This is where you c
   <img src="https://img.shields.io/badge/Java-FFF4D6?style=for-the-badge&logo=openjdk&logoColor=5D4E37&labelColor=E8B86D" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-FAE5B0?style=for-the-badge&logo=javascript&logoColor=5D4E37&labelColor=F5D76E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-FFF4D6?style=for-the-badge&logo=python&logoColor=5D4E37&labelColor=E8B86D" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-FAE5B0?style=for-the-badge&logo=scikit-learn&logoColor=5D4E37&labelColor=F5D76E" alt="scikit-learn" />
   <br />
   <img src="https://img.shields.io/badge/HTML5-FFF4D6?style=for-the-badge&logo=html5&logoColor=5D4E37&labelColor=E8B86D" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-FAE5B0?style=for-the-badge&logo=css&logoColor=5D4E37&labelColor=F5D76E" alt="CSS3" />
