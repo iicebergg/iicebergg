@@ -13,6 +13,8 @@ Hello! I'm Vivien, and I'm a high school senior in Virginia. This is where you c
   &nbsp;
   <a href="https://orcid.org/0009-0008-5085-8458">
     <img src="https://img.shields.io/badge/ORCiD-FFF4D6?style=for-the-badge&logo=orcid&logoColor=5D4E37&labelColor=E8B86D" alt="ORCiD" /></a>
+  <a href="https://vivienberg.org">
+    <img src="https://img.shields.io/badge/Website-FAE5B0?style=for-the-badge&logo=react&logoColor=5D4E37&labelColor=F5D76E" alt="Website" /></a>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FAE5B0,100:E8B86D&height=2" alt="divider" />
